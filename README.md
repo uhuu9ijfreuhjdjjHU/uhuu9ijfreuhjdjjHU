@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**uhuu9ijfreuhjdjjHU/uhuu9ijfreuhjdjjHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                  -`
+                 .o+`                    ┌──────────────────────Hardware──────────────────────┐
+                `ooo/                    │ PC: 20XY00GSUS (ThinkPad X1 Yoga Gen 6)
+               `+oooo:                   │ ├cpu: 11th Gen Intel(R) Core(TM) i7-1185G7 (8) @ 4.80 GHz
+              `+oooooo:                  │ ├ram: 7.27 GiB / 15.32 GiB (47%)
+              -+oooooo+:                 │ └storage: 37.58 GiB / 475.94 GiB (8%) - btrfs
+            `/:-:++oooo+:                └────────────────────────────────────────────────────┘
+           `/++++/+++++++:               
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`            ┌──────────────────────Software──────────────────────┐
+        ./ooosssso++osssssso+`           │ OS: Arch Linux x86_64
+       .oossssso-````/ossssss+`          │ ├ver: Linux 6.18.2-arch2-1
+      -osssssso.      :ssssssso.         │ ├pkgs: 1504 (pacman), 11 (flatpak)
+     :osssssss/        osssso+++.        └ └shell: fish 4.2.1
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-        DE: KDE Plasma 6.5.4
+ `+sso+:-`                 `.-/+oso:     │ ├lm: sddm 0.21.0 (Wayland)
+`++:.                           `-/+/    │ ├wm: KWin (Wayland)
+.`                                 `/    │ ├wmtheme: Klassy
+                                         └ └gpu: i915
+                                         └────────────────────────────────────────────────────┘
+[aval@arch ~]> ls /aboutme
+She/Her  mass  mwcc  cat-person
