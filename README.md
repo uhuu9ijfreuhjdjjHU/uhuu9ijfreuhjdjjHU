@@ -1,3 +1,4 @@
+```
                   -`
                  .o+`                    ┌──────────────────────Hardware──────────────────────┐
                 `ooo/                    │ PC: 20XY00GSUS (ThinkPad X1 Yoga Gen 6)
@@ -21,3 +22,4 @@
                                          └────────────────────────────────────────────────────┘
 [aval@arch ~]> ls /aboutme
 She/Her  mass  mwcc  cat-person
+```
