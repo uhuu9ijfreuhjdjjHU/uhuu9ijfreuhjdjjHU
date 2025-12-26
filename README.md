@@ -21,5 +21,5 @@
                                          └ └gpu: i915
                                          └────────────────────────────────────────────────────┘
 [aval@arch ~]> ls /aboutme
-She/Her  mass  mwcc  cat-person
+She-Her  mass  mwcc  cat-person
 ```
