@@ -21,6 +21,9 @@
 .`                                 `/    │ ├wmtheme: Klassy
                                          └ └gpu: i915
                                          └────────────────────────────────────────────────────┘
+"don't listen to everybody, you should pick very specific people that you listen to"
+-diinki
+
 [aval@arch ~]> ls /aboutme
 She-Her  mass  mwcc  cat-person
 ```
