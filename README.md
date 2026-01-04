@@ -12,10 +12,10 @@
          `/+++ooooooooooooo/`            ┌──────────────────────Software──────────────────────┐
         ./ooosssso++osssssso+`           │ OS: Arch Linux x86_64
        .oossssso-````/ossssss+`          │ ├ver: Linux 6.18.2-arch2-1
-      -osssssso.      :ssssssso.         │ ├pkgs: 1504 (pacman), 11 (flatpak)
+      -osssssso.      :ssssssso.         │ ├pkgs: 420 (pacman), 69 (flatpak)
      :osssssss/        osssso+++.        └ └shell: fish 4.2.1
     /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-        DE: KDE Plasma 6.5.4
+  `/ossssso+/:-        -:/+osssso+-        DE: KDE Plasma 6.7.lol
  `+sso+:-`                 `.-/+oso:     │ ├lm: sddm 0.21.0 (Wayland)
 `++:.                           `-/+/    │ ├wm: KWin (Wayland)
 .`                                 `/    │ ├wmtheme: Klassy
@@ -24,6 +24,6 @@
 "don't listen to everybody, you should pick very specific people that you listen to"
 -diinki
 
-[aval@arch ~]> ls /aboutme
-She-Her  mass  mwcc  cat-person
+[aval@arch ~]> ls ~/aboutme
+She\ Her  mass  mwcc  lesbian
 ```
